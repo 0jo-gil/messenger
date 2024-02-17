@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/0jo-gil/messenger_rn.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/0jo-gil/messenger_backend.git
